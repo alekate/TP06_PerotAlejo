@@ -25,5 +25,5 @@ MonoBehaviour:
   airControlFactor: 0.7
   movementSpeed: 20
   maxSpeed: 10
-  playerHealth: 1e+28
+  playerHealth: 4
   playerHealPoints: 1
